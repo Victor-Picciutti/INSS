@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\Praticando\DS\INSS\bin\Debug\net9.0\INSS.exe
+C:\Users\Victor\Desktop\Praticando\DS\INSS\bin\Debug\net9.0\INSS.deps.json
+C:\Users\Victor\Desktop\Praticando\DS\INSS\bin\Debug\net9.0\INSS.runtimeconfig.json
+C:\Users\Victor\Desktop\Praticando\DS\INSS\bin\Debug\net9.0\INSS.dll
+C:\Users\Victor\Desktop\Praticando\DS\INSS\bin\Debug\net9.0\INSS.pdb
+C:\Users\Victor\Desktop\Praticando\DS\INSS\obj\Debug\net9.0\INSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Praticando\DS\INSS\obj\Debug\net9.0\INSS.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Praticando\DS\INSS\obj\Debug\net9.0\INSS.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Praticando\DS\INSS\obj\Debug\net9.0\INSS.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Praticando\DS\INSS\obj\Debug\net9.0\INSS.sourcelink.json
+C:\Users\Victor\Desktop\Praticando\DS\INSS\obj\Debug\net9.0\INSS.dll
+C:\Users\Victor\Desktop\Praticando\DS\INSS\obj\Debug\net9.0\refint\INSS.dll
+C:\Users\Victor\Desktop\Praticando\DS\INSS\obj\Debug\net9.0\INSS.pdb
+C:\Users\Victor\Desktop\Praticando\DS\INSS\obj\Debug\net9.0\INSS.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Praticando\DS\INSS\obj\Debug\net9.0\ref\INSS.dll
